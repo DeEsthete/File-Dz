@@ -1,0 +1,6 @@
+C:\Users\djoni\source\repos\File-Dz\File-Dz-2\bin\Debug\File-Dz-2.exe.config
+C:\Users\djoni\source\repos\File-Dz\File-Dz-2\bin\Debug\File-Dz-2.exe
+C:\Users\djoni\source\repos\File-Dz\File-Dz-2\bin\Debug\File-Dz-2.pdb
+C:\Users\djoni\source\repos\File-Dz\File-Dz-2\obj\Debug\File-Dz-2.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\File-Dz\File-Dz-2\obj\Debug\File-Dz-2.exe
+C:\Users\djoni\source\repos\File-Dz\File-Dz-2\obj\Debug\File-Dz-2.pdb

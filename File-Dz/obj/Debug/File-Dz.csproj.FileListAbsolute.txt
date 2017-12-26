@@ -1,0 +1,7 @@
+C:\Users\djoni\source\repos\File-Dz\File-Dz\obj\Debug\File-Dz.csprojResolveAssemblyReference.cache
+C:\Users\djoni\source\repos\File-Dz\File-Dz\obj\Debug\File-Dz.csproj.CoreCompileInputs.cache
+C:\Users\djoni\source\repos\File-Dz\File-Dz\bin\Debug\File-Dz.exe.config
+C:\Users\djoni\source\repos\File-Dz\File-Dz\bin\Debug\File-Dz.exe
+C:\Users\djoni\source\repos\File-Dz\File-Dz\bin\Debug\File-Dz.pdb
+C:\Users\djoni\source\repos\File-Dz\File-Dz\obj\Debug\File-Dz.exe
+C:\Users\djoni\source\repos\File-Dz\File-Dz\obj\Debug\File-Dz.pdb
